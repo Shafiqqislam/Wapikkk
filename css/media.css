@@ -1,0 +1,714 @@
+
+@media(max-width:991px){
+    .social ul li {
+        width: 33px;
+        height: 34px;
+        text-align: center;
+        margin-left: 8px;
+        border-radius: 29px;
+        /* line-height: 21px; */
+    }
+    .footer-content {
+
+        font-size: 15px;
+    }
+    .footer-content {
+        width: -4%;
+    }
+    .social {
+        padding-left: 0px;
+        /* border-radius: 2%; */
+    }
+    .end1 {
+        padding-bottom: 8px;
+    }
+    .end h6 {
+        font-size: 22px;
+    }
+    .end p {
+        font-size: 15px;
+    }
+    .end h5 {
+        font-size: 16px;
+    }
+    .end li {
+        font-size: 15px;
+    }
+    .news h3 {
+        font-size: 16px;
+    }
+    .news input {
+        padding-right: 0px;
+        font-size: 12px;
+    }
+    .last h1 {
+        font-size: 25px;
+    }
+    .last p {
+        font-size: 15px;
+    }
+    .btn-last {
+        padding: 9px 6px;
+        font-size: 12px;
+    }
+    .circle h1 {
+        font-size: 26px;
+    }
+    .circle img {
+        width: 12%;
+    }
+    .circle p {
+        font-size: 15px;
+    }
+    .circle a {
+        font-size: 18px;
+    }
+    .plans h3 {
+    font-size: 27px;
+}
+.plans ul {
+    font-size: 15px;
+}
+    .pricing p {
+        font-size: 14px;
+    }
+    .bordering span {
+        font-size: 16px;
+    }
+    .bordering h2 {
+        font-size: 27px;
+    }
+    .bordering h6 {
+        font-size: 15px;
+    }
+    .tbl1{
+        border-right: 0;
+    }
+    .btn-pricing {
+        font-size: 9px;
+        padding: 9px 11px;
+        }
+    .maping {
+        background-size:400px ;
+    }
+    .maping p {
+        font-size: 15px;
+    }
+    .maping h1 {
+        font-size: 25px;
+    }
+    .w-50 {
+        width: 67%!important;
+    }
+    
+    .sp2 {
+        font-size: 15px;
+    }
+    .sp1 {
+        font-size: 15px;
+    }
+    .test p {
+        font-size: 15px;
+    }
+    .bg ul {
+        font-size: 15px;
+    }
+    .templete p {
+        font-size: 15px;
+    }
+    .templete h1 {
+        font-size: 23px;
+    }
+    .heading2{
+        margin-top: 12px;
+    }
+    .Tee {
+        height: 94px;
+    }
+    .Tee span:last-child {
+        width: 73%;
+        height: 3px;
+    }
+    .Tee span:first-child {
+        height: 96%;
+        width: 3px;
+    }
+    .heading1 img{
+        width: 19%;
+    }
+    .heading1 p {
+        font-size: 15px;
+    }
+    .heading1 h1{
+        font-size: 18px;
+    }
+    .heading h1 {
+        font-size: 30px;
+    }
+    .heading p {
+        font-size: 17px;
+    }
+    .phonee{
+    padding-left: 11px;
+    margin-left: -17px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-left: 0;
+        font-size: 15px;
+    }
+    a.nav-link.btn.btn-primary.btn-custom {
+        display: inline-block;
+        padding: 7px 26px;
+    }
+    .banner h1 {
+        font-size: 30px;
+    }
+    .banner p {
+        font-size: 17px;
+    }
+    .btn-learn {
+        padding: 7px 26px;
+        border-radius: 0;
+    }
+    .hg{
+        min-height: 80vh;
+    }
+    .send-icon {
+        right: 18%;
+        top: 81%;
+        transform: translate(-81%,-18%);
+    }
+    .logo img {
+        width: 71px;
+    }
+    .phonee{margin-left: 1px;}
+
+
+
+
+@media(max-width:767px){
+    .footer-content {
+
+        font-size: 14px;
+    }
+    .footer-content {
+        width: 38%;
+    }
+    .end1 {
+        padding-bottom: 12px;
+    }
+    .send-icon {
+        right: 15%;
+        top: 80%;
+        transform: translate(-80%,-15%);
+    }
+    .end h6 {
+        font-size: 19px;
+        /* padding-bottom: 7px; */
+    }
+    .end p {
+        font-size: 14px;
+        margin-top: -12px 0;
+    }
+    .end h5 {
+        font-size: 15px;
+    }
+    .end li {
+        font-size: 14px;
+    }
+    .news h3 {
+        font-size: 14px;
+        padding-bottom: 10px;
+        font-weight: 600;
+    }
+    .news input {
+        /* padding-right: 11px; */
+        font-size: 9px;
+    }
+    .last h1 {
+        font-size: 20px;
+    }
+    .last p {
+        font-size: 14px;
+    }
+    .btn-last {
+        padding: 11px 6px;
+        font-size: 9px;
+    }
+    .circle h1 {
+        font-size: 18px;
+    }
+    .circle img {
+        width: 9%;
+    }
+    .circle p {
+        font-size: 14px;
+    }
+    .circle a {
+        font-size: 14px;
+    }
+    .plans h3 {
+        font-size: 18px;
+    }
+    .plans ul {
+        font-size: 13px;
+    }
+    .pricing p {
+        font-size: 14px;
+    }
+    .pricing h1 {
+        font-size: 25px;
+    }
+    .bordering span {
+        font-size: 14px;
+    }
+    .bordering h2 {
+        font-size: 26px;
+    }
+    .bordering h6 {
+        font-size: 15px;
+    }
+    .tbl{
+        
+padding: 16px 15px;
+    }
+    .tbl1{
+        border-right: 0;
+    }
+    .btn-pricing {
+        font-size: 10px;
+        padding: 5px 12px;
+        }
+    .maping {
+        background-size:350px;
+        padding: 13px 0px;
+    }
+    .maping p {
+        font-size: 14px;
+    }
+    .maping h1 {
+        font-size: 23px;
+    }
+    .w-50 {
+        width: 70%!important;
+    }
+    .sp2 {
+        font-size: 14px;
+    }
+    .sp1 {
+        font-size: 14px;
+    }
+    .test p {
+        font-size: 14px;
+    }
+    .bg ul {
+        font-size: 14px;
+    
+    }
+    .bg img{
+    /* width: 74%; */
+    /* padding: 2px; */
+    margin-top: 16px 0;
+    width: 120px 0;
+    padding: -6px;
+    }
+    .templete p {
+        font-size: 14px;
+    }
+    .templete h1 {
+        font-size: 17px;
+        padding-top: 33px 0;
+    }
+    .heading2{
+        margin-top: 12px;
+    }
+    .heading2 h1{
+
+display: contents;
+
+font-size: 16px;
+
+}
+    .heading2 p{
+
+font-size: 14px;
+
+}
+    .Tee {
+        height: 80px;
+    }
+    .Tee span:last-child {
+        width: 21%;
+        height: 3px;
+        /* padding: 22px 0; */
+    }
+    .Tee span:first-child {
+        height: 100%;
+        width: 3px;
+    }
+    .heading h1 {
+        font-size: 25px;
+    }
+    .heading p {
+        font-size: 15px;
+    }
+    .phonee{
+    padding-left: 5px;
+    margin-left: -30px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-left: 0;
+        font-size: 16px;
+    }
+    a.nav-link.btn.btn-primary.btn-custom {
+        display: inline-block;
+        padding: 7px 21px;
+    }
+    .banner h1 {
+        font-size: 26px;
+    }
+    .banner p {
+        font-size: 15px;
+    }
+    .btn-learn {
+        padding: 7px 20px;
+        border-radius: 0;
+    }
+    .hg{
+        min-height:70vh ;
+    }
+    .heading1 img{
+        width: 25%;
+    }
+    .pt-5, .py-5 {
+        padding-top: 1rem!important;
+    }
+    .heading1 p {
+        font-size: 14px;
+    }
+    .heading1 h1{
+        font-size: 16px;
+    }
+    .social ul li {
+        width: 33px;
+        height: 34px;
+        text-align: center;
+        margin-left: 8px;
+        border-radius: 29px;
+        /* line-height: 21px; */
+    }
+    .logo img {
+        width: 69px;
+    }
+    .phonee{margin-left: 2px;}
+
+
+
+@media(max-width:575px){
+    .social ul li {
+        width: 36px;
+        height: 38px;
+        text-align: center;
+        margin-left: 8px;
+        border-radius: 29px;
+    }
+    .plans h3 {
+        font-size: 18px;
+    }
+    .plans ul {
+        font-size: 12px;
+    }
+    .tbl{
+
+    padding: 22px 0px;
+
+     }
+    .tbl1{
+        border-right: 0;
+    }
+    .btn-pricing {
+    font-size: 12px;
+    padding: 5px 12px;
+    }
+
+    .text-right {
+        text-align: center!important;
+    }
+    .bordering span {
+        font-size: 13px;
+    }
+    .bordering h2 {
+        font-size: 25px;
+    }
+    .bordering h6 {
+        font-size: 14px;
+    }
+    .pricing p {
+        font-size: 13px;
+    }
+    .pricing h1 {
+        font-size: 18px;
+    }
+    .maping {
+        background-size:250px;
+        margin-bottom: 17px;
+    }
+    .maping p {
+        font-size: 13px;
+    }
+    .maping h1 {
+        font-size: 17px;
+    }
+    .w-50 {
+        width: 35%!important;
+        padding-top: 24px;
+        /* text-align: center; */
+    }
+    .sp2 {
+        font-size: 14px;
+    }
+    .sp1 {
+        font-size: 14px;
+    }
+    .test p {
+        font-size: 14px;
+    }
+    .bg ul {
+        font-size: 14px;
+    
+    }
+    .bg img{
+        width: 48%!important;
+        padding-left: 6px 0;
+        margin-right: 143px;
+    }
+    .templete p {
+        font-size: 13px;
+    }
+    .templete h1 {
+        font-size: 18px;
+    }
+    .heading2{
+        margin-top: 12px;
+    }
+    .heading2 h1{
+
+font-size: 16px;
+
+}
+    .heading2 p{
+
+font-size: 13px;
+
+}
+    .heading2 i{
+
+font-size: 19px;
+}
+ .Tee span:last-child {
+        width: 28%;
+        height: 4px;
+    }
+    .Tee span:first-child {
+        height: 94%;
+        width: 4px;
+    }
+    .Tee {
+        height: 80px;
+    }
+    .heading h1 {
+        font-size: 18px;
+    }
+    .heading p {
+        font-size: 13px;
+    }
+    .feature {
+        padding: 18px 0px;
+    }
+    .phonee{
+    padding-left: 5px;
+    margin-left: -30px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        margin-left: 0;
+        font-size: 14px;
+    }
+    a.nav-link.btn.btn-primary.btn-custom {
+        display: inline-block;
+        padding: 5px 12px;
+    }
+    .banner h1 {
+        font-size: 22px;
+    }
+    .banner p {
+     font-size: 13px;
+    }
+    .btn-learn {
+        padding: 5px 8px;
+        font-size: 14px;
+    }
+    .hg{
+        min-height:50vh ;
+    }
+    .heading1 img{
+        width: 14%;
+    }
+    .pt-5, .py-5 {
+        padding-top: 0rem!important;
+    }
+    .heading1 p {
+        font-size: 13px;
+    }
+    .bordering {
+        padding: 8px 0;
+    }
+    .col-sm-4.last-items.col-6.tbl2.tbl3.tbl {
+        margin: auto;
+        margin-top: 20px;
+    }
+    .circle h1 {
+        font-size: 18px;
+    }
+    .circle img {
+        width: 9%;
+    }
+    .circle p {
+        font-size: 13px;
+    }
+    .circle a {
+        font-size: 14px;
+    }
+    .circle {
+        margin-bottom: -40px;
+    }
+    .last h1 {
+        font-size: 18px;
+    }
+    .last p {
+        font-size: 13px;
+    }
+    .btn-last {
+        padding: 11px 6px;
+        font-size: 8px;
+    }
+    .end h6 {
+        font-size: 18px;
+    }
+    .end p {
+        font-size: 13px;
+    }
+    .end h5 {
+        font-size: 14px;
+    }
+    .end li {
+        font-size: 13px;
+    }
+    .news h3 {
+        font-size: 14px;
+    }
+    .news input {
+        /* padding-right: 31px; */
+        padding: 6px -18px;
+        font-size: 10px;
+        padding: 6px -3px;
+        padding: 6px 3px;
+    } 
+    .end {
+        padding: 0px 0;
+    }
+        .footer-content {
+
+            font-size: 13px;
+        }
+    .end1 {
+        padding-bottom: 8px;
+    }
+    .social ul li {
+        width: 33px;
+        height: 34px;
+        text-align: center;
+        margin-left: 8px;
+        border-radius: 29px;
+    
+    }
+    .footer {
+        padding-top: 12px;
+    }
+    .send-icon {
+        right: 44%;
+        top: 71%;
+        transform: translate(-71%,-44%);
+    }
+    .terms {
+        text-align: center;
+    }
+    .social ul {
+        justify-content: center;
+    }
+    .btnn:hover{
+        transform: scale(1.2);
+    }
+    .logo img {
+        width: 68px;
+    }
+    .phonee{
+
+/* margin-right: 12px; */
+
+margin-left: 1px;
+
+}
+    
+}
+@media(max-width:375px){
+    .send-icon {
+        right: 29%;
+        top: 85%;
+        transform: translate(-85%,-29%);
+    }
+    .logo img {
+        width: 68px;
+    }
+    .phonee{
+        margin-left: -10px;
+    }
+    .sp2 {
+        margin-left: 108px;
+    }
+    .sp1{
+        text-align:center;
+        }
+        .navbar-light .navbar-nav .nav-link {
+            margin-left: 0;
+            font-size: 11px;
+            font-weight: 600;
+        }
+
+}
+@media(max-width:320px){
+    .send-icon {
+        right: 17%;
+        top: 82%;
+        transform: translate(-82%,-17%);
+    }
+    .logo img {
+        width: 62px;
+    }
+    .navbar-light .navbar-toggler {
+    color: rgba(0,0,0,.5);
+    border-color: rgba(0,0,0,.1);
+    font-size: 10px;
+    display: contents;
+    border-radius: 1px solid #f1f1f1;
+     }
+     .sp2 {
+        margin-left: 80px;
+    }
+    .sp1{
+    text-align:center;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        font-size: 11px;
+        font-weight: 600;
+    }
+}
